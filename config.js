@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-        name: "MuzammilOPYT",
-      password: "FUGA",
-      host: "fnode1.astrast.host",
-      port:  7960,
+      name: "GlaceYT",
+      password: "glaceyt",
+      host: "193.226.78.187",
+      port:  9372,
       secure: false
     }
   ]
