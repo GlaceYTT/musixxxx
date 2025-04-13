@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
      {
         name: "MuzammilOPYT",
-      password: "yourpasswordhere",
-      host: "ind1.zapto.org",
-      port:  25575,
+      password: "FUGA",
+      host: "fnode1.astrast.host",
+      port:  7960,
       secure: false
     }
   ]
