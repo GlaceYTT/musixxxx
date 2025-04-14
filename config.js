@@ -17,11 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glaceyt",
-      host: "193.226.78.187",
-      port:  9372,
-      secure: false
+        identifier: 'GlaceYT',
+        password: 'mayavi',
+        host: 'astro.pylex.xyz',
+        port: 11345,
+        secure: false
     }
   ]
 }
