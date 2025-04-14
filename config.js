@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
      {
       name: "GlaceYT",
-      password: "glaceyt",
-      host: "193.226.78.187",
-      port:  9372,
+      password: "ghost",
+      host: "dnode2.astrast.host",
+      port:  9869,
       secure: false
     }
   ]
