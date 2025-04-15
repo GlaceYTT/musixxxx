@@ -17,10 +17,10 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "ghost",
-      host: "dnode2.astrast.host",
-      port:  9869,
+      name: "XX",
+      password: "glaceyt",
+      host: "neko.pylex.xyz",
+      port:11340 ,
       secure: false
     }
   ]
